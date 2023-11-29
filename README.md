@@ -11,4 +11,4 @@ simple to-do application that allows users to manage tasks by adding, editing, m
 # How to run the application locally
 * install node
 * npm install express sequelize dotenv jsonwebtoken mysql2
-* ensure you change the datbase name.
+* ensure you change the database name.
